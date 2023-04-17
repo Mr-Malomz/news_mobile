@@ -32,6 +32,7 @@ class _HomeState extends State<Home> {
                   child: Image.network(
                     'https://picsum.photos/250?image=9',
                     height: 80.0,
+                    width: 80.0,
                   ),
                 ),
                 const SizedBox(width: 15.0),
